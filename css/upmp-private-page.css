@@ -1,0 +1,53 @@
+.upmp-private-page-tabs{
+    background: #f7f7f7 none repeat scroll 0 0;
+    border: 1px solid #cfcfcf;
+    margin-bottom: 20px;
+}
+
+.upmp_button_color{
+    background: #428bca !important;
+    color: #FFF !important;
+}
+
+.upmp-private-page-active-tab{
+    background: #cfcfcf !important;
+}
+
+.upmp-private-page-content-tab-content{
+    padding: 20px;
+}
+.upmp-private-page-empty-user-message{
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+.upmp-private-page-container.upmp-private-page-single{
+    padding: 5px;
+    border: 1px solid #cfcfcf;
+}
+
+.upmp-private-page-cover-image img{
+    width: 100%;
+}
+
+.upmp-private-page-cover-empty-image{
+    width: 100%;
+    height: 40px;
+    background: #428bca ;
+}
+
+.upmp-private-page-title{
+    padding: 10px 20px;
+    position: relative;
+    bottom: 40px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: -40px;
+}
+
+.upmp-private-page-tab{
+    padding: 15px;
+    float: left;
+}
+
